@@ -1,0 +1,53 @@
+1 - Quais são os principais aspectos que tornam um jogo digital acessível para diferentes grupos de pessoas?
+
+2 - Como a falta de acessibilidade em jogos digitais pode impactar a experiência de jogo para pessoas com deficiências?
+
+3 - Quais são alguns exemplos de desafios técnicos enfrentados pelos desenvolvedores na criação de jogos acessíveis?
+
+4 - Quais são as diretrizes e melhores práticas atualmente em discussão pela indústria para promover a acessibilidade em jogos digitais?
+
+5 - De que forma as interfaces de usuário podem ser projetadas para garantir uma experiência acessível em jogos digitais?
+
+6 - Como as opções de personalização podem ser implementadas em jogos digitais para atender às necessidades de diferentes jogadores?
+
+7 - Quais são as considerações específicas ao projetar legendas e áudio descritivo para tornar um jogo acessível para pessoas com deficiências visuais ou auditivas?
+
+8 - Quais são os benefícios de tornar um jogo digital acessível para além do público-alvo tradicional?
+
+9 - Como a acessibilidade em jogos digitais pode ser integrada de forma eficaz ao processo de desenvolvimento do jogo?
+
+10 - Quais são os próximos passos para avançar na promoção da acessibilidade em jogos digitais e garantir uma maior inclusão na indústria de jogos?
+
+
+1 legendas e audio , interfaces adaptaveis testes de acessibilidade
+
+2 A falta de acessibilidade pode impactar negativamente a experiência de jogo para pessoas com deficiências de diversas maneiras. Isso inclui exclusão de conteúdo crucial devido à ausência de legendas ou áudio descritivo, 
+dificuldades para navegar em interfaces inacessíveis, e a impossibilidade de jogar
+
+3 criação de interfaces que sirvam tanto para pessoas com alguma deficiencia como pessoas que nao possuem
+
+4 Customização de Controles Legendas e Áudio Interfaces Intuitivas
+
+5 Design de Telas: Facilitar a navegação com botões grandes e claros Permitir que as pessoas ajustem o tamanho das coisas.
+
+
+6 Deixar as pessoas escolherem como querem jogar.Opções para facilitar ou dificultar o jogo.
+Legendas e Sons:
+
+7 Ter legendas ajustáveis e fáceis de ler.
+Descrever o que está acontecendo para quem não pode ouvir.
+Vantagens da Acessibilidade:
+
+8 Mais pessoas podem curtir o jogo.
+Mostra que a empresa se importa com todos os jogadores.
+Gera novas ideias ao incluir diferentes perspectivas.
+Acessibilidade no Desenvolvimento:
+
+9 Testar sempre para garantir que todos possam jogar.
+Pedir opiniões de quem tem diferentes necessidades.
+Futuro da Acessibilidade:
+
+10 Mais colaboração entre desenvolvedores e comunidades.
+Criar regras que todos na indústria sigam.
+Continuar buscando maneiras de fazer os jogos serem para todos.
+Ensinar aos criadores como fazer jogos acessíveis.
