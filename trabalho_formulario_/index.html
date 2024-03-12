@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Validação</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <form action="#" method="post" id="form-pedido">
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <label for="nome">Nome:</label><br>
+            <input type="text" id="nome" name="nome" required><br>
+
+            <label for="endereco">Endereço:</label><br>
+            <input type="text" id="endereco" name="endereco" required><br>
+
+            <label for="numberefone">Numberefone:</label><br>
+            <input type="number" id="numberefone" name="numberefone" pattern="[0-9]{11}" required><br>
+
+            <label for="data_nascimento">data de nascimento:</label><br>
+            <input type="number" id="data_nascimento" name="data_nascimento" pattern="[0-9]{6}" required><br>
+
+            <label for="genero">Gênero:</label><br>
+            <input type="text" id="genero" name="genero" required><br>
+
+            <label for="email">Seu email:</label><br>
+            <input type="text" id="email" name="email" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Informações Escolares</legend>
+            <label for="serie_atual">Sua série atual:</label><br>
+            <input type="text" id="serie_atual" name="serie_atual" required><br>
+
+            <label for="nome_responsavel">Nome do Responsável:</label><br>
+            <input type="text" id="nome_responsavel" name="nome_responsavel" required><br>
+
+            <label for="contato_responsavel">Contato do Responsável:</label><br>
+            <input type="text" id="contato_responsavel" name="contato_responsavel" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Documentos</legend>
+            <label for="cpf">Seu CPF:</label><br>
+            <input type="number" id="cpf" name="cpf" pattern="[0-9]{11}" required><br>
+
+            <label for="rg">Seu RG:</label><br>
+            <input type="text" id="rg" name="rg" pattern="[0-9]+" required><br>
+        </fieldset>
+        <label for="mensagem">Mensagem:</label><br>
+        <textarea id="mensagem" name="mensagem" required></textarea><br>
+
+        <input type="submit" value="Concluir o Formulário">
+    </form>
+
+    
+
+    <script src="validação_formulario.js"></script>
+</body>
+</html>
