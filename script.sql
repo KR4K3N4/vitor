@@ -1,5 +1,5 @@
 CREATE DATABASE pizzaria(
-	id int varchar(90)
+	id int (90)
 	nome varchar(90)
 	endereço varchar(90)
 	tamanhovarchar(90)
