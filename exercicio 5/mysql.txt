@@ -1,0 +1,29 @@
+INSERT INTO fornecedor(id, nome, cnpj, endereço) VALUES 
+(1, 'carlos alvarenga', '23213134', 'sao paulo'), 
+(2, 'rafael dumont', '6582638576', 'rio de janeiro'), 
+(3, 'antonio menuzzo', '566577089', 'minas gerais'), 
+(4, 'gabriel almeida', '234568728', 'minas gerais');
+
+INSERT INTO venda (id, notafiscal, data, valortotal, cliente_id, loja_id) VALUES
+(1, 'NF123', '2024-04-02', 100.00, 1, 1),
+(2, 'NF124', '2024-04-02', 150.00, 2, 2),
+
+
+INSERT INTO loja(id, nome, cnpj) VALUES
+(1, 'Kenner', '1233542563'),
+(2, 'Riachuelo', '5436809683'),
+(3, 'Overlar Falida', '4572354325'),
+(4, 'Lacta', '8325983457');
+
+INSERT INTO cliente (id, nome, endereco) VALUES
+(1, 'Cliente 1', 'Endereço 1'),
+(2, 'Cliente 2', 'Endereço 2');
+
+
+INSERT into produto(id, nome, descrição)
+VALUES (1,'eletronicos','produtos eletronicos diversos,como celulares,laptops, Tvs'),
+(2, 'roupas','roupas de diferentes estilos e tamanhos!'),
+
+(3, 'alimentos', 'alimentos variados, produtos frescos,enlatados e congelados'),
+
+(4,'moveis','moveis para casa e escritorio, incluindo sofas,mesas e cadeiras');
